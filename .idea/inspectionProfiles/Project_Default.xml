@@ -12,9 +12,6 @@
           <option value="W605" />
           <option value="E265" />
           <option value="E266" />
-          <option value="E501" />
-          <option value="E128" />
-          <option value="E122" />
         </list>
       </option>
     </inspection_tool>
@@ -43,7 +40,6 @@
           <option value="main.main_build_database.Store_OFDM_feature" />
           <option value="utils.loss.BCELoss" />
           <option value="scipy.optimize.tests.test_trustregion.Accumulator.*" />
-          <option value="main.model" />
         </list>
       </option>
     </inspection_tool>

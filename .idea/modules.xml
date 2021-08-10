@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Resnet50_0720.iml" filepath="$PROJECT_DIR$/.idea/Resnet50_0720.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSGRL.iml" filepath="$PROJECT_DIR$/.idea/SSGRL.iml" />
     </modules>
   </component>
 </project>
